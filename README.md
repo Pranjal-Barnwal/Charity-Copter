@@ -8,7 +8,7 @@ Hosted on:
 <br>
 ▶️ https://pranjal-barnwal.github.io/Charity-Copter/
 <hr>
-<img src="./res/portfolioMinimal.jpg">
+<img src="./res/ssProject.jpg">
 <hr>
 <br>
 Pranjal Kumar
